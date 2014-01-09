@@ -1,3 +1,6 @@
 [submodule "Vendor"]
 	path = Vendor
 	url = git@github.com:rasmusstorjohann-AI/Vendor.git
+[submodule "webapps/common"]
+	path = webapps/common
+	url = git@github.com:rasmusstorjohann-AI/Common.git
