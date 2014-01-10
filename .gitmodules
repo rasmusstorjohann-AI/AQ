@@ -4,3 +4,6 @@
 [submodule "webapps/common"]
 	path = webapps/common
 	url = git@github.com:rasmusstorjohann-AI/Common.git
+[submodule "webapps/common2"]
+	path = webapps/common2
+	url = git@github.com:rasmusstorjohann-AI/Common2.git
